@@ -1,4 +1,4 @@
 void main(){
 	printf("zhangjnujie");
-	printf("wangyimin");
+	printf("three times");
 }
